@@ -208,11 +208,3 @@ Serving on http://localhost:8001
 Visit `http://localhost:8001` in your browser. The app should be up & running.
 
 <br />
-
-## ✨ Credits & Links
-
-- [Flask Framework](https://www.palletsprojects.com/p/flask/) - The offcial website
-
-<br />
-
-

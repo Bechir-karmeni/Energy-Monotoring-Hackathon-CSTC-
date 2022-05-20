@@ -213,9 +213,7 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 
 - [Flask Framework](https://www.palletsprojects.com/p/flask/) - The offcial website
 - [Boilerplate Code](https://appseed.us/boilerplate-code) - Index provided by **AppSeed**
-- [Boilerplate Code](https://github.com/app-generator/boilerplate-code) - Index published on Github
 
 <br />
 
 ---
-[Gradient Able Flask](https://appseed.us/admin-dashboards/flask-gradient-able) - Provided by **AppSeed [App Generator](https://appseed.us/app-generator)**.
